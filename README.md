@@ -2,7 +2,6 @@
 
 ## I'm a Computer Science & Mathematics Student, Guitarist, and Travel Lover!
 
-- 💼 I finished my SWE Internship at **Amazon Web Services**
 - 🥇 I gained prizes in ICPC, World Invetion Creativity Olympic, National Microsoft Specialist Competition, Informatics Olympiad Competition
 - 🧑🏻‍💻 I’m interested in Machine Learning, Competitive Programming, Blockchain and Finance but open to learning anything 😊
 - ☁️ I spent my last internship at trading/blockchain company **Sotatek Trading Company** and **IBM**
