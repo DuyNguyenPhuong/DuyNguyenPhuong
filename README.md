@@ -7,8 +7,6 @@
 - ☁️ I spent my last internship at trading/blockchain company **Sotatek Trading Company** and **IBM**
 - 🚀 Fun fact: I travelled to 13 countries during 3.5 months of my study abroad program
 
----
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
@@ -64,4 +62,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
-
+---
