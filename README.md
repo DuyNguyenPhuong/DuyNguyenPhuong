@@ -14,6 +14,8 @@
   <img src="https://profile-counter.glitch.me/DuyNguyenPhuong/count.svg" />
 </p>
 
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/duyngp/" style="text-decoration: none;">
