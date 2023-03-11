@@ -66,4 +66,3 @@
 ---
 
 ![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=radical&count_private=true)
-https://camo.githubusercontent.com/39d50bfbc6e5cd3443411e7ebc7932716c926c60d919bda4d479fc50d6237b44/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c7569736165267468656d653d6c69676874
