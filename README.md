@@ -65,4 +65,5 @@
 
 ---
 
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight&count_private=true&disable_animations=false)![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false)
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false)
