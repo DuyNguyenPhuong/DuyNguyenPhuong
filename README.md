@@ -65,4 +65,4 @@
 
 ---
 
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=gruvbox&count_private=true)![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=gruvbox&disable_animations=false)
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=gruvbox&count_private=true&disable_animations=false)![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=gruvbox&disable_animations=false)
