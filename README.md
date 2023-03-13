@@ -69,10 +69,10 @@
 ![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false) -->
 
 
-<div style="display: flex; flex-direction: row;">
+<p float="left">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight" />
  <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false" />
-</div>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyNguyenPhuong)
 
