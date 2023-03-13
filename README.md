@@ -67,3 +67,5 @@
 
 ![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuyNguyenPhuong&repo=Deep-Learning-Neural-Networks)](https://github.com/DuyNguyenPhuong/Deep-Learning-Neural-Networks)
