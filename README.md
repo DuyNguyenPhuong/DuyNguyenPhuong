@@ -69,7 +69,7 @@
 ![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false) -->
 
 
-<p float="left" style="width:48px; height:48px">
+<p float="left" style="width:45px; height:45px">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight" />
  <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight" />
 </p>
