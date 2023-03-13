@@ -69,10 +69,10 @@
 ![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false) -->
 
 
-<!-- <p float="left" style="width:100; height:100">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" />
- <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" />
-</p> -->
+<p float="row">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width=400/>
+ <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width=400/>
+</p>
 
 
 <div class="row">
