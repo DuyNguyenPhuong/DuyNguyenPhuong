@@ -71,7 +71,7 @@
 
 <p float="row">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width = 49.5%/>
- <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width = 49.5% height = 50%/>
+ <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width = 49.5% height = 60%/>
 </p>
 
 <!-- 
