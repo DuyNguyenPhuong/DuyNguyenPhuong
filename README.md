@@ -77,10 +77,10 @@
 
 <div class="row">
   <div class="column">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width=500/>
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width=400/>
   </div>
   <div class="column">
-    <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width=500/>
+    <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width=400/>
   </div>
 </div>
 
