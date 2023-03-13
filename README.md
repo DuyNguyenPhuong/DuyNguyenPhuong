@@ -70,11 +70,11 @@
 
 
 <p float="row">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" =400x400/>
- <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" =400x400/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width = 400/>
+ <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width = 400/>
 </p>
 
-
+<!-- 
 <div class="row">
   <div class="column">
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" =400x400)/>
@@ -83,7 +83,7 @@
     <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width=400/>
   </div>
 </div>
-
+ -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyNguyenPhuong)-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuyNguyenPhuong&repo=Deep-Learning-Neural-Networks)](https://github.com/DuyNguyenPhuong/Deep-Learning-Neural-Networks) -->
