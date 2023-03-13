@@ -70,8 +70,8 @@
 
 
 <p float="left">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight" />
- <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false" />
+ <img class="img" width="90" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight" />
+ <img class="img" width="90" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyNguyenPhuong)
