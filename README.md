@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Duy. Would you like me to show you around?
 
-## I'm a Computer Science & Mathematics Student, Guitarist, and Travel Lover!
+## I'm a Computer Science & Mathematics Student and Travel Lover!
 
 - 🥇 I gained prizes in World Invetion Creativity Olympic, National Microsoft Specialist Competition, Informatics and Mathematics Olympiad Competition
 - 🧑🏻‍💻 I’m interested in Machine Learning, Competitive Programming, Blockchain and Finance but open to learning anything 😊
