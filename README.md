@@ -5,7 +5,7 @@
 - 🥇 I gained prizes in World Invetion Creativity Olympic, National Microsoft Specialist Competition, Informatics and Mathematics Olympiad Competition
 - 🧑🏻‍💻 I’m interested in Machine Learning, Competitive Programming, Blockchain and Finance but open to learning anything 😊
 - ☁️ I spent my last internship at trading/blockchain company **Sotatek Trading Company** and **IBM**
-- 🚀 Fun fact: I travelled to 13 countries during 4 months of my study abroad program
+- 🚀 Fun fact: I travelled to 14 countries during 4 months of my study abroad program
 
 <a href=#><img src="contributions.svg"></a>
 
