@@ -6,6 +6,7 @@
 - 🧑🏻‍💻 I’m interested in Machine Learning, Competitive Programming, Blockchain and Finance but open to learning anything 😊
 - ☁️ I spent my last internship at trading/blockchain company **Sotatek Trading Company** and **IBM**
 - 🚀 Fun fact: I travelled to 15 countries during 4 months of my study abroad program
+- 😊 I have participated in Dartmouth College and Univerisity of Los Angeles (UCLA) Hackathons
 
 <a href=#><img src="contributions.svg"></a>
 
