@@ -74,7 +74,7 @@
 
 <p float="row">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width = 49.5%/>
- <img class="img" src="https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=synthwave" width = 49.5% height = 100%/>
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyNguyenPhuong&theme=synthwave" width = 49.5% height = 100%/>
 </p>
 
 <!-- 
@@ -87,6 +87,9 @@
   </div>
 </div>
  -->
+
+
+ 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyNguyenPhuong)-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuyNguyenPhuong&repo=Deep-Learning-Neural-Networks)](https://github.com/DuyNguyenPhuong/Deep-Learning-Neural-Networks) -->
