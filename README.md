@@ -77,6 +77,9 @@
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyNguyenPhuong&theme=synthwave" width = 49.5% height = 100%/>
 </p>
 
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
 <!-- 
 <div class="row">
   <div class="column">
