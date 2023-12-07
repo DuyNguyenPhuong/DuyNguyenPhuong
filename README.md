@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Duy. Would you like me to show you around?
+### Hi there 👋, I'm Dave. Would you like me to show you around?
 
-## I'm a Computer Science & Mathematics Student and Travel Lover!
+## I'm a Computer Science & Mathematics Student and a Travel Lover!
 
 - 🚀 I'm an **Amazon** intern working at **Palm Recognition** using **Deep Learning** and **AWS** for every **WholeFoods Market** across the US
 - 🥇 I gained prizes in World Invention Creativity Olympic, National Microsoft Specialist Competition, Informatics, and Mathematics Olympiad Competition
