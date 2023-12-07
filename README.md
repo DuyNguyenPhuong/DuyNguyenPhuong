@@ -6,7 +6,7 @@
 - 🥇 I gained prizes in World Invention Creativity Olympic, National Microsoft Specialist Competition, Informatics, and Mathematics Olympiad Competition
 - 😊 I have participated in **Optiver Ready Trader G**o and **IMC Trading Challenges** with high results (Profit of $10000 in 15 minutes)
 - 🧑🏻‍💻 I’m interested in Machine Learning, Competitive Programming, Blockchain, and Finance but open to learning anything 😊
-- ☁️ I spent my last internship at trading/blockchain company **Sotatek Trading Company** and **IBM**
+- ☁️ I spent my last internship at **Amazon Web Services**, a blockchain company **Sotatek Trading Company** and **IBM**
 - 🚀 Fun fact: I traveled to 15 countries during 4 months of my study abroad program
 - 😊 I have participated in Dartmouth College and University of Los Angeles (UCLA) Hackathons
 
