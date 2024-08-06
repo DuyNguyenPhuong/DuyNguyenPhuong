@@ -5,7 +5,7 @@
 - 🐧 I'm currently a **Microsoft** intern working at the lowest-level service of the Azure Core team to optimize resource allocation and performance using **C++** and **Rust**
 - 🚀 I'm a formal **Amazon** intern working at **Palm Recognition** using **Deep Learning** and **AWS** for every **WholeFoods Market** across the US
 - 🥇 I gained prizes in World Invention Creativity Olympic, National Microsoft Specialist Competition, Informatics, and Mathematics Olympiad Competition
-- 😊 I have participated in **Optiver Ready Trader G**o and **IMC Trading Challenges** with high results (Profit of $10000 in 15 minutes)
+- 😊 I have participated in **Optiver Ready Trader Go** with high results (Profit of $10000 in 15 minutes)
 - 🧑🏻‍💻 I’m interested in Machine Learning, Competitive Programming, Blockchain, and Finance but open to learning anything 😊
 - ☁️ I spent my last internship at **Amazon Web Services**, a blockchain company **Sotatek Trading Company** and **IBM**
 - 🚀 Fun fact: I traveled to 15 countries during 4 months of my study abroad program
