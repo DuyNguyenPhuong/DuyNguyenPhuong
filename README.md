@@ -69,7 +69,7 @@
 
 ---
 
-<!-- ![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight)
+<!-- ![Duy's GitHub stats](https://githubstat2-7b9orxiyf-daves-projects-4c03b31b.vercel.app/api?username=DuyNguyenPhuong&include_all_commits=true&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false) -->
 
 
